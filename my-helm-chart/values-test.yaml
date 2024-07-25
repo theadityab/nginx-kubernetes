@@ -2,7 +2,7 @@
 replicaCount: 1
 image:
   repository: myapp
-  tag: 0.1.0-test
+  tag: 0.1.0-nginx-app
 service:
   port: 8080
 
