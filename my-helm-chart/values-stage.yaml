@@ -1,1 +1,8 @@
+# values-stage.yaml
+replicaCount: 3
+image:
+  repository: myapp
+  tag: 0.1.0-stage
+service:
+  port: 8080
 
